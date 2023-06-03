@@ -46,9 +46,12 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![OUTPUT](/mechanics%20exp-9.1.png)
+![OUTPUT](/mechanics%20exp-9.2.png)
+![OUTPUT](/mechanics%20exp-9.3.png)
 
-### Name:
-### Register Number:
+### Name: HARSHA VARDHAN
+### Register Number: 212222240114
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
